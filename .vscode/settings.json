@@ -1,0 +1,15 @@
+{
+    "markdownlint.config": {
+        "MD033": {
+            "allowed_elements": [
+                "details",
+                "summary",
+                "br"
+            ]
+        },
+        "MD051": false,
+        "MD014": false,
+        "MD025": false,
+    },
+    "markdown.extension.toc.slugifyMode": "vscode",
+}
