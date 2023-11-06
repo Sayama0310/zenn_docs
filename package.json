@@ -1,0 +1,19 @@
+{
+  "name": "zenn_docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.sub:Sayama0310/zenn_docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.148"
+  }
+}
